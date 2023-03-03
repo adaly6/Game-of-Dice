@@ -6,7 +6,7 @@ Andrew Daly, Jacob Weisshaar
 The purpose of this code is for assignment 1 in Computational Thinking. 
 This is a simulation of a simple game of dice. Numbers that signify game over on the dice
 are 1, 2, and 3. When these numbers are rolled, the game ends. Numbers 4, 5, and 6
-signify the amount won by the player ($4, $5, or $6). They player may keep rolling until 
+signify the amount won by the player ($4, $5, or $6). The player may keep rolling until 
 game over numbers are rolled. Through 10,000 simulations of the game, we track the 
 average amount won, the probability that the game ends with a non-zero amount, and
 the largest amount won for a single game.
