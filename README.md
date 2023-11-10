@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script simulates a straightforward dice game for Computational Thinking Assignment 1. The game involves rolling a six-sided die, with numbers 1, 2, and 3 signifying a game over and numbers 4, 5, and 6 determining the winnings ($4, $5, or $6). The simulation is run for 10,000 games, tracking key metrics such as the average amount won, the probability of a non-zero winning, and the largest amount won in a single game.
+This Python script simulates a straightforward dice game for computational thinking. The game involves rolling a six-sided die, with numbers 1, 2, and 3 signifying a game over and numbers 4, 5, and 6 determining the winnings ($4, $5, or $6). The simulation is run for 10,000 games, tracking key metrics such as the average amount won, the probability of a non-zero winning, and the largest amount won in a single game.
 
 ## How the Game Works
 
